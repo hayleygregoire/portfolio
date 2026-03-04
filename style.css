@@ -290,6 +290,13 @@ header.scrolled {
     font-size: 3rem;
 }
 
+.work-image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+}
+
 .work-content {
     padding: 2rem;
 }
